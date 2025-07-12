@@ -5,6 +5,7 @@ This project is a faithful recreation of the TwoGoodCo webpage, built purely wit
 ## Table of Contents
 
 - [About TwoGoodCo](#about-twogoodco)
+- [Live Preview](#live-preview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
@@ -16,6 +17,10 @@ This project is a faithful recreation of the TwoGoodCo webpage, built purely wit
 ## About TwoGoodCo
 
 [Two Good Co](https://twogood.com.au/) is a social enterprise that aims to spread goodness by creating products and services that provide dignified employment for women with lived experience of homelessness, domestic violence, and long-term unemployment. This project is a tribute to their impactful work.
+
+## Live Preview
+
+This project is currently hosted on [Netlify](https://twogoodco-webpage-arj.netlify.app/)
 
 ## Features
 
@@ -44,12 +49,11 @@ You only need a web browser to view this project. No specific development enviro
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/twogoodco-clone.git](https://github.com/your-username/twogoodco-clone.git)
+    git clone [https://github.com/ShadowSlayer03/TwoGoodCo-Webpage-Clone.git](https://github.com/ShadowSlayer03/TwoGoodCo-Webpage-Clone.git)
     ```
-    (Replace `your-username` with your actual GitHub username and `twogoodco-clone` with your repository name)
 2.  **Navigate to the project directory:**
     ```bash
-    cd twogoodco-clone
+    cd twogoodco-webpage-clone
     ```
 
 ## Usage
